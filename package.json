@@ -10,7 +10,7 @@
   "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "2.9.2"
+    "typescript": "3.0.3"
   },
   "scripts": {
     "prepare": "tsc -d"
