@@ -6,7 +6,7 @@
     "javascript"
   ],
   "homepage": "https://github.com/chbrown/bind",
-  "repository": "git://github.com/chbrown/bind.git",
+  "repository": "github:chbrown/bind",
   "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
   "license": "MIT",
   "devDependencies": {
